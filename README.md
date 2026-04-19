@@ -36,6 +36,8 @@ cd pi-plan-tools
 pi install /path/to/pi-plan-tools
 ```
 
+No local `npm install` is required for normal usage.
+
 Or use a symlink for development:
 
 ```bash
